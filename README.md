@@ -7,6 +7,11 @@ here to the index of the documentation/diary like so:
 * [code1](code1/README.md)
 * [code2](code2/README.md)
 
+However, these links will only work on the local drive. It doesn't look like
+this can be easily mapped without some scripting. Maybe
+https://docs.github.com/en/github/writing-on-github/autolinked-references-and-urls
+can help?
+
 The child repos can be developed independently of this one. 
 
 The issue with git submodules is that the repo references here won't 
