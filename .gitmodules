@@ -1,6 +1,6 @@
 [submodule "code1"]
 	path = code1
-	url = ../code1
+	url = git@github.com:gabysbrain/test-code1.git
 [submodule "code2"]
 	path = code2
-	url = ../code2
+	url = git@github.com:gabysbrain/test-code2.git
