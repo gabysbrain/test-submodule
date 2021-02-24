@@ -1,0 +1,6 @@
+[submodule "code1"]
+	path = code1
+	url = ../code1
+[submodule "code2"]
+	path = code2
+	url = ../code2
